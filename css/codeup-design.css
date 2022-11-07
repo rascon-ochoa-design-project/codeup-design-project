@@ -1,15 +1,16 @@
 *{
     background: #E6E6E6;
-    font-family: "Anton Regular", "Abel Regular", sans-serif;
+    font-family:'Abel', sans-serif;
+    font-family: 'Anton', sans-serif;
     font-weight: bold;
 }
 .circle-red{
     border-radius: 50%;
-    height: 125px;
-    width: 125px;
+    height: 105px;
+    width: 105px;
     border: 8px solid white;
     background: #E6563B;
-    margin: 1em;
+    margin: auto;
 }
 .design{
     color: white;
@@ -17,11 +18,11 @@
 }
 .circle-orange{
     border-radius: 50%;
-    height: 125px;
-    width: 125px;
+    height: 105px;
+    width: 105px;
     border: 8px solid white;
     background: #EB9D3A;
-    margin: 1em;
+    margin: auto;
 }
 .develop{
     color: white;
@@ -29,23 +30,24 @@
 }
 .circle-green{
     border-radius: 50%;
-    height: 125px;
-    width: 125px;
+    height: 105px;
+    width: 105px;
     border: 8px solid white;
     background: #7CB06C;
-    margin: 1em;
+    margin: auto;
 }
 .support{
     color: white;
     background: #7CB06C;
+
 }
 .circle-aqua{
     border-radius: 50%;
-    height: 125px;
-    width: 125px;
+    height: 105px;
+    width: 105px;
     border: 8px solid white;
     background: #00ABA9;
-    margin: 1em;
+    margin: auto;
 }
 .host{
     color: white;
