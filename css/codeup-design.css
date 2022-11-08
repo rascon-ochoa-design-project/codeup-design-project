@@ -1,9 +1,19 @@
 *{
-    background: #E6E6E6;
+    background: #F0F0F0;
     font-family:'Abel', sans-serif;
 }
 .anton{
     font-family: 'Anton', sans-serif;
+}
+.codeup{
+    padding-right: 35px;
+    font-size: 25px;
+}
+h1{
+    font-size: 80px;
+}
+h4{
+    font-size: 60px;
 }
 .circle-red{
     border-radius: 50%;
@@ -11,7 +21,7 @@
     width: 105px;
     border: 8px solid white;
     background: #E6563B;
-    /*margin: 30px 15px 30px 30px;*/
+    margin: 30px;
 }
 .design{
     color: white;
@@ -24,7 +34,7 @@
     width: 105px;
     border: 8px solid white;
     background: #EB9D3A;
-    /*margin: 30px 15px 30px 30px;*/
+    margin: 30px;
 }
 .develop{
     color: white;
@@ -37,7 +47,7 @@
     width: 105px;
     border: 8px solid white;
     background: #7CB06C;
-    /*margin: 30px 15px 30px 30px;*/
+    margin: 30px;
 }
 .support{
     color: white;
@@ -51,10 +61,41 @@
     width: 105px;
     border: 8px solid white;
     background: #00ABA9;
-    /*margin: 30px 15px 30px 30px;*/
+    margin: 30px;
 }
 .host{
     color: white;
     background: #00ABA9;
     padding-top: 2em;
+}
+hr{
+    width: 80%;
+}
+.dot-red{
+    height: 25px;
+    width: 25px;
+    background-color: #E6563B;
+    border-radius: 50%;
+    display: inline-block;
+}
+.dot-orange{
+    height: 25px;
+    width: 25px;
+    background-color: #EB9D3A;
+    border-radius: 50%;
+    display: inline-block;
+}
+.dot-green{
+    height: 25px;
+    width: 25px;
+    background-color: #7CB06C;
+    border-radius: 50%;
+    display: inline-block;
+}
+.dot-aqua{
+    height: 25px;
+    width: 25px;
+    background-color: #00ABA9;
+    border-radius: 50%;
+    display: inline-block;
 }
